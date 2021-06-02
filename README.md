@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Gustavo Fabián Alegre. Tengo 17 años. Soy de Villa Ortuzar, Capital Federal, Buenos Aires, Argentina.
+- 👀 I’m interested in  el desarrollo web  y el desarrollo de aplicación móvil.
+- 🌱 I’m currently learning  JavaScript.
+- 💞️ I’m looking to collaborate on empresas que me ayuden a fortalecer mis conocimientos como programador.
+- 📫 How to reach me :  Gmail: alegre494@gmail.com   ;  Instagram: lilicerotres.
